@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore explanation folder
+explanation/
+
+# Ignore Word documents
+*.docx
+~$*.docx
